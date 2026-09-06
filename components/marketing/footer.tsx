@@ -8,7 +8,7 @@ export function Footer() {
           <span className="flex h-6 w-6 items-center justify-center rounded-full bg-primary font-display text-xs font-semibold text-white">
             B
           </span>
-          <span>LMSPH — a portfolio project, not a real school system.</span>
+          <span>LMSPH — a portfolio project by BenDon™, school system sample.</span>
         </div>
         <Link href="/login" className="transition-colors hover:text-foreground">
           Explore the demo
